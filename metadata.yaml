@@ -1,5 +1,8 @@
 _repo: Avoidance-Situation_59438
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59438-h/images/cover.jpg
 creator:
   author:
     agent_name: McConnell, James R. (James Rogers)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2286
     wikipedia: http://en.wikipedia.org/wiki/James_Rogers_McConnell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59438#Avoidance-Situation
 gutenberg_issued: '2019-05-05'
 gutenberg_type: Text
 identifiers:
